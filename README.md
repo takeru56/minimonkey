@@ -1,3 +1,5 @@
-# interprenter monkey 
+# minimonkey 
+interprenter written by Go
+
 ## References
-https://www.amazon.co.jp/dp/4873118221
+https://www.oreilly.co.jp/books/9784873118222/
